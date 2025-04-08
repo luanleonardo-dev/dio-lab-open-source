@@ -75,6 +75,27 @@ Atente-se para a seguir as orientações para a contribuição, principalmente:
 ](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Após criar o seu Pull Request, nossa automação irá validar a sua submissão. Caso esteja tudo certo, será retornada uma mensagem indicado que seu PR foi aprovado. Do contrário, leia atentamente as orientações e verifique os arquivos modificados para saber se atende as instruções para contribuição.
+
+
+### 9) O que é um Profile README?
+
+Um **Profile README** é um arquivo `README.md` que aparece no topo do seu perfil do GitHub, funcionando como um cartão de visita interativo. Ele permite que você se apresente para a comunidade, mostre suas habilidades, projetos, estatísticas e compartilhe links úteis (como LinkedIn, portfólio, e-mail, etc).
+
+**Como criar um Profile README?**
+
+1. Crie um novo repositório com o **mesmo nome do seu usuário GitHub** (ex: `luan-dev`)
+2. Marque a opção **"Add a README file"**
+3. O GitHub vai exibir automaticamente esse README no seu perfil
+
+**O que você pode incluir:**
+
+- Uma breve apresentação pessoal
+- Badges com suas tecnologias favoritas
+- Estatísticas do GitHub (contribuições, linguagens mais usadas)
+- Links para projetos, artigos, desafios da DIO
+- Contato: LinkedIn, e-mail, portfólio, etc
+- Gifs, imagens ou qualquer coisa criativa que reflita seu estilo!
+
     
     
 ## Convenção de Commits 
